@@ -1,5 +1,5 @@
-a=150
-b=160
+a=int(input())
+b=int(input())
 a=a^b
 b=a^b
 a=a^b
