@@ -1,5 +1,5 @@
 number=int(input())
-i=0
+i=1
 first=0
 second=1
 while(i<number+1):
