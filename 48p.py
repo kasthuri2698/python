@@ -1,5 +1,5 @@
 number=int(input())
 for i in range(number):
-  n=int(input())
+  n=list(map(int,input().split()))
   avg=sum(n)//number
   print(avg)
