@@ -1,0 +1,2 @@
+bb=input()
+print(bb)
